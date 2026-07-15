@@ -1,6 +1,6 @@
-package tipo;
+package ex001;
 
-public abstract class Tipo {
+public abstract class Animal {
     protected float peso;
     protected int idade;
     protected int membro;
